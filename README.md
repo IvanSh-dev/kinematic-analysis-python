@@ -1,9 +1,11 @@
 Kinematic Analysis Tool: Slider-Crank Mechanism ⚙️
 
 A desktop application built with Python and Tkinter for calculating and visualizing the velocity vector diagrams (velocity plans) of a slider-crank mechanism.
+
 🎯 Overview
 
 This tool automates the process of kinematic analysis, which is traditionally done manually in mechanical engineering. By inputting the geometric and motion parameters, the software instantly generates a precise velocity vector plan.
+
 🚀 Key Features
 
     • Interactive GUI: User-friendly interface built with Tkinter for real-time data entry.
@@ -33,6 +35,7 @@ The program processes the following parameters:
     Angular Velocity of the crank.
 
 It calculates the X and Y components of velocities, taking into account the geometry of the mechanism to find the relative velocity of the connecting rod and the sliding speed of the piston.
+
 🖥️ How to Use
 
     Clone the repository:
